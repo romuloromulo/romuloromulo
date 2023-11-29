@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! Me chamo Rômulo :)
 
-<!--
-**romuloromulo/romuloromulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como desenvolvedor front-end,
+- 🌱 Estou me aprimorando em TypeScript, Next.js 14 e Angular,
+- 😄 Pronomes: Ele/dele,
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloromulo&layout=compact)
 
-Here are some ideas to get you started:
+## Principais tecnologias que utilizo 
+<div style="display:flex margin-top: -40px"><br>
+  <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Romulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Romulo-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Romulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Romulo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg">
+  <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Romulo-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex margin-top: -40px"><br>
+    <a href="https://www.linkedin.com/in/r%C3%B4mulo-rodrigues-viana-380ba5248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://portfolio-romulo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/meu_portfolio-FFF?style=for-the-badge&llogoColor=white" target="_blank"></a> 
+
+</div>
