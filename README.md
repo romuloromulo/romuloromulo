@@ -23,3 +23,5 @@
    <a href="https://portfolio-romulo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/meu_portfolio-FFF?style=for-the-badge&llogoColor=white" target="_blank"></a> 
 
 </div>
+
+*Por conta de um problema vários commits meus não estão mais presentes no quadro de atividade
