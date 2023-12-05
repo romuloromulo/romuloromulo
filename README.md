@@ -1,9 +1,9 @@
 ### Olá! Me chamo Rômulo :)
 
-const romulo = {
- 🔭: 'Atualmente trabalho como desenvolvedor front-end',
- 🌱: 'Estou me aprimorando em TypeScript, Next.js 14 e Angular',
- 😄: 'Pronomes: Ele/dele'
+const romulo = {<br/>
+ 🔭: 'Atualmente trabalho como desenvolvedor front-end', <br/>
+ 🌱: 'Estou me aprimorando em TypeScript, Next.js 14 e Angular',<br/>
+ 😄: 'Pronomes: Ele/dele'<br/>
  }
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloromulo&layout=compact)
