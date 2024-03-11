@@ -17,7 +17,7 @@ const romulo = {<br/>
   <img align="center" alt="Romulo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg">
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Romulo-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Romulo-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 <div style="display:flex "><br>
