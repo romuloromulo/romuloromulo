@@ -1,8 +1,8 @@
 ### Olá! Me chamo Rômulo :)
 
 const romulo = {<br/>
- 🔭: 'Atualmente trabalho como desenvolvedor front-end', <br/>
- 🌱: 'Estou me aprimorando em TypeScript, Next.js 14 e Angular',<br/>
+ 🔭: 'Atualmente me especializando em desenvolvimento full stack', <br/>
+ 🌱: 'Estou me aprimorando em TypeScript, Next.js 14 e Node.js',<br/>
  😄: 'Pronomes: Ele/dele'<br/>
  }
   
