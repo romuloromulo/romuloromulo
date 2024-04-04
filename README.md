@@ -3,7 +3,6 @@
 const romulo = {<br/>
  🔭: 'Atualmente me especializando em desenvolvimento full stack', <br/>
  🌱: 'Estou me aprimorando em TypeScript, Next.js 14 e Node.js',<br/>
- 😄: 'Pronomes: Ele/dele'<br/>
  }
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuloromulo&layout=compact)
