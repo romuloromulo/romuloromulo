@@ -26,4 +26,3 @@ const romulo = {<br/>
 
 </div>
 
-*Por conta de um problema vários commits meus não estão mais presentes no quadro de atividade
